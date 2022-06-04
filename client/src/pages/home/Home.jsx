@@ -1,11 +1,13 @@
 import React from 'react'
+import About from '../about/About'
+
 const Home = () => {
     return (
-        <div>
+        <main id='main'>
             <div id='about'>
-                <h1>About</h1>
+                <About></About>
             </div>
-            <div id='zengraden'>
+            <div id='zengarden'>
                 <h1>Zen Garden</h1>
             </div>
             <div id='resturant'>
@@ -17,7 +19,7 @@ const Home = () => {
             <div id='tweenroom'>
                 <h1>Tween Room</h1>
             </div>
-        </div>
+        </main>
     )
 }
 
