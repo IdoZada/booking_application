@@ -18,10 +18,10 @@ const NavbarComponent = () => {
                         <Nav.Link href="#resturant">Resturant</Nav.Link>
                         <NavDropdown title="Rooms" id="collasible-nav-dropdown">
                             <NavDropdown.Item href="#doubleroom">Double room</NavDropdown.Item>
-                            <NavDropdown.Item href="#tweenroom">Tween room</NavDropdown.Item>
+                            {/* <NavDropdown.Item href="#tweenroom">Tween room</NavDropdown.Item>
                             <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
                             <NavDropdown.Divider />
-                            <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                            <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item> */}
                         </NavDropdown>
                     </Nav>
                     {/* <Nav>
