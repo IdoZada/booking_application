@@ -1,5 +1,4 @@
 import React from 'react'
-import AnimationPage from '../../components/animationPage/animationPage'
 import About from '../about/About'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
