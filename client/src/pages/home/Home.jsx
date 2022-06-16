@@ -25,7 +25,7 @@ const Home = () => {
                                     <Container>
                                         <Col>
                                             <Card style={{ margin: 10 }}>
-                                                <Card.Img variant="top" src="https://brownhotels.com/sites/default/files/styles/smush/public/img_6222.jpg?itok=4Gjoy537" />
+                                                <Card.Img variant="top" src="" />
                                                 <Card.Body>
                                                     <Card.Title>Card title</Card.Title>
                                                     <Card.Text>
